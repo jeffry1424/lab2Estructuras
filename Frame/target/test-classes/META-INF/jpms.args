@@ -1,0 +1,4 @@
+--patch-module
+datos.lab2.frame=_
+--add-reads
+datos.lab2.frame=ALL-UNNAMED
